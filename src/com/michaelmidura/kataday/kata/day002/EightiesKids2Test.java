@@ -19,6 +19,4 @@ public class EightiesKids2Test {
         assertEquals("Spaceship lost forever.", EightiesKids2.findSpaceship("..\n.."));
     }
 
-    // Good luck!
-    // Remember that space might not be square..
 }
