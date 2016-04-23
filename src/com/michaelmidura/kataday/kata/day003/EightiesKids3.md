@@ -1,3 +1,5 @@
+<b>80's Kids #3: Punky Brewster's Socks</b>
+
 <b>Description:</b>
 
 Punky loves wearing different colored socks, but Henry can't stand it.
