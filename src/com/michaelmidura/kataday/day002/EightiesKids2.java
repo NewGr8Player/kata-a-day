@@ -1,4 +1,4 @@
-package com.michaelmidura.kataday.kata.day002;
+package com.michaelmidura.kataday.day002;
 
 public class EightiesKids2 {
 

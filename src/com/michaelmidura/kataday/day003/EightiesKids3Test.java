@@ -1,4 +1,4 @@
-package com.michaelmidura.kataday.kata.day003;
+package com.michaelmidura.kataday.day003;
 
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;

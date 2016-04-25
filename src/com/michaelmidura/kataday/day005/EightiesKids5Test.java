@@ -1,4 +1,4 @@
-package com.michaelmidura.kataday.kata.day005;
+package com.michaelmidura.kataday.day005;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

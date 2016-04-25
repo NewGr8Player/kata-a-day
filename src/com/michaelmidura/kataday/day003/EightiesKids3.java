@@ -1,4 +1,4 @@
-package com.michaelmidura.kataday.kata.day003;
+package com.michaelmidura.kataday.day003;
 
 import java.util.Arrays;
 import java.util.Collections;

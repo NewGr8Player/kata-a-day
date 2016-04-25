@@ -1,4 +1,4 @@
-package com.michaelmidura.kataday.kata.day001;
+package com.michaelmidura.kataday.day001;
 
 import java.util.Map;
 
