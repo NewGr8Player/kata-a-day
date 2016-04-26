@@ -4,11 +4,11 @@
 
 <b>Do you know how to make a spiral? Let's test it!</b>
 
-</hr>
+<hr>
 
 <i>Classic definition: A spiral is a curve which emanates from a central point, getting progressively farther away as it revolves around the point.</i>
 
-</hr>
+<hr>
 
 Your objective is to complete a function <pre><code>createSpiral(N)</code></pre> that receives an integer <pre><code>N</code></pre> and returns two-dimensional array where numbers from <pre><code>1</code></pre> to <pre><code>N</code></pre> should be represented as clockwise spiral.
 
