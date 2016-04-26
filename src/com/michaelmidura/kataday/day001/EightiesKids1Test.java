@@ -2,7 +2,9 @@ package com.michaelmidura.kataday.day001;
 
 import java.util.Map;
 import java.util.HashMap;
+
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class EightiesKids1Test {

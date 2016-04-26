@@ -1,6 +1,7 @@
 package com.michaelmidura.kataday.day005;
 
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 public class EightiesKids5Test {

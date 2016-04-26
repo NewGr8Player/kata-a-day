@@ -9,12 +9,12 @@ public class EightiesKids3 {
         if (name.equals("Henry"))
             for (String sock : socks)
                 if (Collections.frequency(Arrays.asList(socks), sock) >= 2)
-                    return new String[] {sock, sock};
+                    return new String[]{sock, sock};
         if (name.equals("Punky"))
             for (String sock1 : socks)
                 for (String sock2 : socks)
                     if (!sock1.equals(sock2))
-                        return new String[] {sock1, sock2};
+                        return new String[]{sock1, sock2};
         return new String[0];
     }
 }

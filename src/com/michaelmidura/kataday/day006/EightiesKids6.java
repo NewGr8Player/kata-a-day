@@ -11,7 +11,7 @@ public class EightiesKids6 {
         if (robot2.getSpeed() > robot1.getSpeed())
             fightIndex = 2;
 
-        while(fightOn) {
+        while (fightOn) {
             if (fightIndex % 2 == 0 && ++robot2Tactic < robot2.getTactics().length)
                 robot1Health -= tactics.get(robot2.getTactics()[robot2Tactic]);
             else if (++robot1Tactic < robot1.getTactics().length)
