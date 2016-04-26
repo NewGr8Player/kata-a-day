@@ -13,4 +13,20 @@ public final class Robot {
         this.tactics = tactics;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public String[] getTactics() {
+        return tactics;
+    }
+
 }

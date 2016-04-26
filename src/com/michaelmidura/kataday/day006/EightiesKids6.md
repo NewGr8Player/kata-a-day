@@ -1,4 +1,4 @@
-<b>80's Kids #6: You Can't Do That on Television</b>
+<b>80's Kids #6: Rock 'Em, Sock 'Em Robots</b>
 
 <b>Description:</b>
 
