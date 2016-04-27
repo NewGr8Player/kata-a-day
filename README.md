@@ -5,7 +5,7 @@
 
 <hr>
 
-<table border="0" style="width:100%; margin: 0px auto;">
+<table border="0" style="width:100%;">
   <tr>
     <th>Day</th>
     <th>Difficulty</th>
