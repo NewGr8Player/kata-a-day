@@ -1,7 +1,8 @@
 <b>80's Kids #1: How Many Licks Does it Take?</b>
-<b>Difficulty:</b> 7 kyu
-<b>Solution Class:</b> [EightiesKids1.java](EightiesKids1.java)
-<b>Test Class:</b> [EightiesKids1Test.java](EightiesKids1Test.java)
+
+* <b>Difficulty:</b> 7 kyu
+* <b>Solution Class:</b> [EightiesKids1.java](EightiesKids1.java)
+* <b>Test Class:</b> [EightiesKids1Test.java](EightiesKids1Test.java)
 
 <b>Description:</b>
 
