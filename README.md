@@ -12,7 +12,7 @@
   <tr>
     <td>1</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td>[80's Kids #1: How Many Licks Does it Take?](src/com/michaelmidura/kataday/day001/EightiesKids1.md)</td>
+    <td><a href="src/com/michaelmidura/kataday/day001/EightiesKids1.md">80's Kids #1: How Many Licks Does it Take?</a></td>
   </tr>
   <tr>
     <td>2</td>
