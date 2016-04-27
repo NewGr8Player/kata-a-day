@@ -1,7 +1,7 @@
 <div align="center"><img src="http://i.imgur.com/MKY21oI.png"/></div>
 <hr>
 
-<div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!<div align="center">
+<div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!</div>
 
 <table border="0" style="width:100%">
   <tr>
