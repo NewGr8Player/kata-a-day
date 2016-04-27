@@ -1,4 +1,7 @@
 <b>80's Kids #4: Legends of the Hidden Temple</b>
+<b>Difficulty:</b> 6 kyu
+<b>Solution Class:</b> [EightiesKids4.java](EightiesKids4.java)
+<b>Test Class:</b> [EightiesKids4Test.java](EightiesKids4Test.java)
 
 <b>Description:</b>
 

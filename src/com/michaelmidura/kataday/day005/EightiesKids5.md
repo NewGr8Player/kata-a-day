@@ -1,4 +1,7 @@
 <b>80's Kids #5: You Can't Do That on Television</b>
+<b>Difficulty:</b> 7 kyu
+<b>Solution Class:</b> [EightiesKids5.java](EightiesKids5.java)
+<b>Test Class:</b> [EightiesKids5Test.java](EightiesKids5Test.java)
 
 <b>Description:</b>
 

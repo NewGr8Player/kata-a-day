@@ -1,4 +1,7 @@
 <b>The Clockwise Spiral</b>
+<b>Difficulty:</b> 5 kyu
+<b>Solution Class:</b> [TheClockwiseSpiral.java](TheClockwiseSpiral.java)
+<b>Test Class:</b> [TheClockwiseSpiralTest.java](TheClockwiseSpiralTest.java)
 
 <b>Description:</b>
 

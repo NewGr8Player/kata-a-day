@@ -1,4 +1,8 @@
 <b>80's Kids #6: Rock 'Em, Sock 'Em Robots</b>
+<b>Difficulty:</b> Beta
+<b>Solution Class:</b> [EightiesKids6.java](EightiesKids6.java)
+<b>Test Class:</b> [EightiesKids6Test.java](EightiesKids6Test.java)
+<b>Extra Classes:</b>  [Robot.java](Robot.java)
 
 <b>Description:</b>
 
