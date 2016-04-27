@@ -1,8 +1,9 @@
-<b>80's Kids #2: Help ALF Find His Spaceship</b>
+<b>Day #2: 80's Kids #2: Help ALF Find His Spaceship</b>
 
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [EightiesKids2.java](EightiesKids2.java)
 * <b>Test Class:</b> [EightiesKids2Test.java](EightiesKids2Test.java)
+* <b>Solved:</b> Thursday, April 21<sup>st</sup>, 2016
 
 <b>Description:</b>
 

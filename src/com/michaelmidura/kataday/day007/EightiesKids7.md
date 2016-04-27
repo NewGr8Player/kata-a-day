@@ -1,8 +1,9 @@
-<b>80's Kids #7: She's a Small Wonder</b>
+<b>Day #7: 80's Kids #7: She's a Small Wonder</b>
 
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [Robot.java](Robot.java)
 * <b>Test Class:</b> [RobotTest.java](RobotTest.java)
+* <b>Solved:</b> Tuesday, April 26<sup>th</sup>, 2016
 
 <b>Description:</b>
 

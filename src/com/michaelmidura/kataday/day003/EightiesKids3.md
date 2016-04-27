@@ -1,8 +1,9 @@
-<b>80's Kids #3: Punky Brewster's Socks</b>
+<b>Day #3: 80's Kids #3: Punky Brewster's Socks</b>
 
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [EightiesKids3.java](EightiesKids3.java)
 * <b>Test Class:</b> [EightiesKids3Test.java](EightiesKids3Test.java)
+* <b>Solved:</b> Friday, April 22<sup>nd</sup>, 2016
 
 <b>Description:</b>
 

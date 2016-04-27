@@ -1,9 +1,10 @@
-<b>80's Kids #6: Rock 'Em, Sock 'Em Robots</b>
+<b>Day #6: 80's Kids #6: Rock 'Em, Sock 'Em Robots</b>
 
 * <b>Difficulty:</b> Beta
 * <b>Solution Class:</b> [EightiesKids6.java](EightiesKids6.java)
 * <b>Test Class:</b> [EightiesKids6Test.java](EightiesKids6Test.java)
 * <b>Extra Classes:</b>  [Robot.java](Robot.java)
+* <b>Solved:</b> Monday, April 25<sup>th</sup>, 2016
 
 <b>Description:</b>
 

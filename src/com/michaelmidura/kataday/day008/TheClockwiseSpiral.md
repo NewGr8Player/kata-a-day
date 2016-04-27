@@ -1,8 +1,9 @@
-<b>The Clockwise Spiral</b>
+<b>Day #8: The Clockwise Spiral</b>
 
 * <b>Difficulty:</b> 5 kyu
 * <b>Solution Class:</b> [TheClockwiseSpiral.java](TheClockwiseSpiral.java)
 * <b>Test Class:</b> [TheClockwiseSpiralTest.java](TheClockwiseSpiralTest.java)
+* <b>Solved:</b> Wednesday, April 27<sup>th</sup>, 2016
 
 <b>Description:</b>
 

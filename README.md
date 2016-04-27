@@ -1,1 +1,1 @@
-KataDay
+<div align="center"><img src="http://i.imgur.com/ZRt77ZI.png"/><h3>KataDay</h3></div>
