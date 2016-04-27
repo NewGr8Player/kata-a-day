@@ -1,1 +1,1 @@
-<div align="center"><img src="http://i.imgur.com/ZRt77ZI.png"/><b>KataDay</b></div>
+<div align="center"><h1><img src="http://i.imgur.com/ZRt77ZI.png"/> KataDay</h1></div>
