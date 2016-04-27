@@ -3,7 +3,9 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!</div>
 
-<table border="0" style="width:100%">
+<hr>
+
+<table border="0" style="width:100%; margin: 0px auto;">
   <tr>
     <th>Day</th>
     <th>Difficulty</th>
