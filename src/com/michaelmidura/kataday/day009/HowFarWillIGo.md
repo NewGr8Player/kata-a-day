@@ -1,4 +1,4 @@
-<b>Day 9: How far will I go?</b>
+<b>Day #9: How far will I go?</b>
 
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Kata.java](Kata.java)

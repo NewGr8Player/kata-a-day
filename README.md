@@ -60,4 +60,10 @@
     <td><a href="src/com/michaelmidura/kataday/day008/TheClockwiseSpiral.md">The Clockwise Spiral</a></td>
     <td>Wednesday, April 27<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day009/HowFarWillIGo.md">How far will I go?</a></td>
+    <td></td>
+  </tr>
 </table>
