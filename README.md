@@ -64,7 +64,7 @@
     <td>9</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day009/HowFarWillIGo.md">How far will I go?</a></td>
-    <td>Unsolved</td>
+    <td>Thursday, April 28<sup>th</sup>, 2016</td></td>
   </tr>
   <tr>
     <td>10</td>

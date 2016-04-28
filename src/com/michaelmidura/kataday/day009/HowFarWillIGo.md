@@ -3,7 +3,7 @@
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Kata.java](Kata.java)
 * <b>Test Class:</b> [KataTest.java](KataTest.java)
-* <b>Solved:</b> Unsolved
+* <b>Solved:</b> Thursday, April 28<sup>th</sup>, 2016</td>
 
 <b>Description:</b>
 
