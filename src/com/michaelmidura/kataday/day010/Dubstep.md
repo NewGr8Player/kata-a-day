@@ -3,7 +3,7 @@
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [Dubstep.java](Dubstep.java)
 * <b>Test Class:</b> [SongTests.java](SongTests.java)
-* <b>Solved:</b> Unsolved
+* <b>Solved:</b> Thursday, April 28<sup>th</sup>, 2016
 
 <b>Description:</b>
 

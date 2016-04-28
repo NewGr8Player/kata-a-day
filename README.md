@@ -70,7 +70,7 @@
     <td>10</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day010/Dubstep.md">Dubstep</a></td>
-    <td>Unsolved</td>
+    <td>Thursday, April 28<sup>th</sup>, 2016</td>
   </tr>
   <tr>
     <td>11</td>
