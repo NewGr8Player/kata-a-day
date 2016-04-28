@@ -64,6 +64,18 @@
     <td>9</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day009/HowFarWillIGo.md">How far will I go?</a></td>
-    <td></td>
+    <td>Unsolved</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day010/Dubstep.md">Dubstep</a></td>
+    <td>Unsolved</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day011/DoubleCola.md">Double Cola</a></td>
+    <td>Unsolved</td>
   </tr>
 </table>
