@@ -1,4 +1,4 @@
-<b>Day #11: Dubstep</b>
+<b>Day #11: Double Cola</b>
 
 * <b>Difficulty:</b> 5 kyu
 * <b>Solution Class:</b> [Line.java](Line.java)
