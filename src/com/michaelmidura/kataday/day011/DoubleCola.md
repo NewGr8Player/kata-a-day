@@ -3,7 +3,7 @@
 * <b>Difficulty:</b> 5 kyu
 * <b>Solution Class:</b> [Line.java](Line.java)
 * <b>Test Class:</b> [ListTests.java](ListTests.java)
-* <b>Solved:</b> Unsolved
+* <b>Solved:</b> Saturday, April 30<sup>th</sup>, 2016
 
 <b>Description:</b>
 

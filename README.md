@@ -76,6 +76,12 @@
     <td>11</td>
     <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day011/DoubleCola.md">Double Cola</a></td>
+    <td>Saturday, April 30<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day012/ZebulansNightmare.md">Zebulan's Nightmare</a></td>
     <td>Unsolved</td>
   </tr>
 </table>
