@@ -3,7 +3,7 @@
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [ZebulansNightmare.java](ZebulansNightmare.java)
 * <b>Test Class:</b> [ZebulansNightmareTest.java](ZebulansNightmareTest.java)
-* <b>Solved:</b> Unsolved
+* <b>Solved:</b> Sunday, May 1<sup>st</sup>, 2016
 
 <b>Description:</b>
 

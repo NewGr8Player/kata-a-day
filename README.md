@@ -82,6 +82,12 @@
     <td>12</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day012/ZebulansNightmare.md">Zebulan's Nightmare</a></td>
+    <td>Sunday, May 1<sup>st</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day012/ZebulansNightmare.md">Don't Eat the Last Cake!</a></td>
     <td>Unsolved</td>
   </tr>
 </table>
