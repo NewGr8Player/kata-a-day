@@ -7,6 +7,8 @@
 
 <b>Description:</b>
 
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chickpea_Cakes_-_Kolkata_2011-03-24_2015.JPG/320px-Chickpea_Cakes_-_Kolkata_2011-03-24_2015.JPG"/>
+
 Welcome Warrior! Let's play a game!
 
 You've gotten challenged by a lot of kata, now it's time for you to challenge the kata!
