@@ -87,7 +87,7 @@
   <tr>
     <td>13</td>
     <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day012/ZebulansNightmare.md">Don't Eat the Last Cake!</a></td>
+    <td><a href="src/com/michaelmidura/kataday/day013/DontEatTheLastCake.md">Don't Eat the Last Cake!</a></td>
     <td>Unsolved</td>
   </tr>
 </table>
