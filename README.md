@@ -87,7 +87,13 @@
   <tr>
     <td>13</td>
     <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day012/ZebulansNightmare.md">Don't Eat the Last Cake!</a></td>
+    <td><a href="src/com/michaelmidura/kataday/day013/DontEatTheLastCake.md">Don't Eat the Last Cake!</a></td>
     <td>Unsolved</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day014/TortoiseRacing.md">Tortoise racing</a></td>
+    <td>Monday, May 2<sup>nd</sup>, 2016</td>
   </tr>
 </table>
