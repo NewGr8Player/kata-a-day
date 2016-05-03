@@ -96,4 +96,10 @@
     <td><a href="src/com/michaelmidura/kataday/day014/TortoiseRacing.md">Tortoise racing</a></td>
     <td>Monday, May 2<sup>nd</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day015/GoingToTheCinema.md">DGoing to the cinema</a></td>
+    <td>Unsolved</td>
+  </tr>
 </table>
