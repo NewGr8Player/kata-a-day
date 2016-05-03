@@ -99,7 +99,7 @@
   <tr>
     <td>15</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day015/GoingToTheCinema.md">DGoing to the cinema</a></td>
+    <td><a href="src/com/michaelmidura/kataday/day015/GoingToTheCinema.md">Going to the cinema</a></td>
     <td>Unsolved</td>
   </tr>
 </table>
