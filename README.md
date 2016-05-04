@@ -100,6 +100,12 @@
     <td>15</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day015/GoingToTheCinema.md">Going to the cinema</a></td>
-    <td>Unsolved</td>
+    <td>Wednesday, May 4<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day016/VasyaClerk.md">Vasya - Clerk</a></td>
+    <td>Wednesday, May 4<sup>th</sup>, 2016</td>
   </tr>
 </table>
