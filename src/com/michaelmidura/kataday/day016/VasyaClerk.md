@@ -1,4 +1,4 @@
-<b>Day #15: Going to the cinema</b>
+<b>Day #16: Vasya - Clerk</b>
 
 * <b>Difficulty:</b> 7 kyu
 * <b>Solution Class:</b> [Line.java](Line.java)

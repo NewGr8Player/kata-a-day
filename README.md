@@ -108,4 +108,10 @@
     <td><a href="src/com/michaelmidura/kataday/day016/VasyaClerk.md">Vasya - Clerk</a></td>
     <td>Wednesday, May 4<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day017/GapInPrimes.md">Gap in Primes</a></td>
+    <td>Wednesday, May 4<sup>th</sup>, 2016</td>
+  </tr>
 </table>
