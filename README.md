@@ -114,4 +114,10 @@
     <td><a href="src/com/michaelmidura/kataday/day017/GapInPrimes.md">Gap in Primes</a></td>
     <td>Wednesday, May 4<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>18</td>
+    <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day018/CarMileage.md">Catching Car Mileage Numbers</a></td>
+    <td>Unsolved</td>
+  </tr>
 </table>
