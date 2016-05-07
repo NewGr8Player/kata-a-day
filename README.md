@@ -118,12 +118,12 @@
     <td>18</td>
     <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day018/CarMileage.md">Catching Car Mileage Numbers</a></td>
-    <td>Unsolved</td>
+    <td>Saturday, May 7<sup>th</sup>, 2016</td>
   </tr>
   <tr>
-    <td>18</td>
+    <td>19</td>
     <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day019/RomanNumerals.md">Roman Numerals Encoder</a></td>
-    <td>Friday, May 5<sup>th</sup>, 2016</td>
+    <td>Friday, May 6<sup>th</sup>, 2016</td>
   </tr>
 </table>

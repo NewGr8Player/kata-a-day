@@ -3,7 +3,7 @@
 * <b>Difficulty:</b> 4 kyu
 * <b>Solution Class:</b> [CarMileage.java](CarMileage.java)
 * <b>Test Class:</b> [CarMileageTest.java](CarMileageTest.java)
-* <b>Solved:</b> Unsolved
+* <b>Solved:</b> Saturday, May 7<sup>th</sup>, 2016
 
 <b>Description:</b>
 
