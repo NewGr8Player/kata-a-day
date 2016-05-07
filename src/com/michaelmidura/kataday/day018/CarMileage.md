@@ -27,6 +27,7 @@ Interesting numbers are 3-or-more digit numbers that meet one or more of the fol
 * The digits match one of the values in the <code>awesomePhrases</code> array
 
 > <sup>†</sup>For incrementing sequences, <code>0</code> should come after <code>9</code>, and not before <code>1</code>, as in <code>7890</code>.
+
 > <sup>‡</sup>For decrementing sequences, <code>0</code> should come after <code>1</code>, and not before <code>9</code>, as in <code>3210</code>.
 
 So, you should expect these inputs and outputs:
