@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #13: Don't Eat the Last Cake!</b>
 
 * <b>Difficulty:</b> 5 kyu

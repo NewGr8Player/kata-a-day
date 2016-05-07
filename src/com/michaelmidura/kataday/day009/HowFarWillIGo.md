@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #9: How far will I go?</b>
 
 * <b>Difficulty:</b> 7 kyu

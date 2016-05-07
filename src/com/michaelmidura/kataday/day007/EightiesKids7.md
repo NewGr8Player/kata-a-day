@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #7: 80's Kids #7: She's a Small Wonder</b>
 
 * <b>Difficulty:</b> 6 kyu

@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #1: 80's Kids #1: How Many Licks Does it Take?</b>
 
 * <b>Difficulty:</b> 7 kyu

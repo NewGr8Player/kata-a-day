@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #4: 80's Kids #4: Legends of the Hidden Temple</b>
 
 * <b>Difficulty:</b> 6 kyu

@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #2: 80's Kids #2: Help ALF Find His Spaceship</b>
 
 * <b>Difficulty:</b> 7 kyu

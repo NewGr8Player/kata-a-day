@@ -1,3 +1,5 @@
+<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+
 <b>Day #6: 80's Kids #6: Rock 'Em, Sock 'Em Robots</b>
 
 * <b>Difficulty:</b> Beta
