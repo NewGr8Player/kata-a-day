@@ -1,4 +1,4 @@
-<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+<a href=https://github.com/michaelwm/KataDay><b>Back to README</b><a>
 
 <b>Day #4: 80's Kids #4: Legends of the Hidden Temple</b>
 

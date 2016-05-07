@@ -1,4 +1,4 @@
-<a href=https://github.com/michaelwm/KataDay>Back to README<a>
+<a href=https://github.com/michaelwm/KataDay><b>Back to README</b><a>
 
 <b>Day #7: 80's Kids #7: She's a Small Wonder</b>
 
