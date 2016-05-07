@@ -126,4 +126,22 @@
     <td><a href="src/com/michaelmidura/kataday/day019/RomanNumerals.md">Roman Numerals Encoder</a></td>
     <td>Friday, May 6<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>20</td>
+    <td><img src="http://i.imgur.com/uu3Afqa.png" alt="3 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day020/DidYouMean.md">Did you mean ...?</a></td>
+    <td>Saturday, May 7<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td><img src="http://i.imgur.com/Sk20Fhz.png" alt="4 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day021/ValidBraces.md">Valid Braces</a></td>
+    <td>Saturday, May 7<sup>th</sup>, 2016</td>
+  </tr>
 </table>
+
+<hr>
+
+<div align="center">Day of next solution: Tuesday, May 10<sup>th</sup>, 2016</div>
+
+<hr>
