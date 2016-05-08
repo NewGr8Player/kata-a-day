@@ -1,11 +1,9 @@
 <div align="center"><img src="http://i.imgur.com/MKY21oI.png"/></div>
 <hr>
 
-<div align="center">
-Solving a Kata (programming problems hosted on http://codewars.com) everyday!
-
-<b>Next Solution:</b> Tuesday, May 9<sup>th</sup>, 2016
-</div>
+<div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
+</br>
+<b>Next Solution:</b> Tuesday, May 9<sup>th</sup>, 2016</div>
 
 <hr>
 
