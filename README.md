@@ -1,7 +1,9 @@
 <div align="center"><img src="http://i.imgur.com/MKY21oI.png"/></div>
 <hr>
 
-<div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!</div>
+<div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
+
+<b>Next Solution:</b> Tuesday, May 9<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -139,9 +141,3 @@
     <td>Saturday, May 7<sup>th</sup>, 2016</td>
   </tr>
 </table>
-
-<hr>
-
-<div align="center">Day of next solution: Tuesday, May 10<sup>th</sup>, 2016</div>
-
-<hr>
