@@ -140,4 +140,16 @@
     <td><a href="src/com/michaelmidura/kataday/day021/ValidBraces.md">Valid Braces</a></td>
     <td>Saturday, May 7<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>22</td>
+    <td><img src="http://i.imgur.com/uu3Afqa.png" alt="3 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day022/ConwaysGameOfLife.md">Conway's Game of Life - Unlimited Edition</a></td>
+    <td>Unsolved</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day023/BackwardsReadPrimes.md">Backwards Read Primes</a></td>
+    <td>Tuesday, May 10<sup>th</sup>, 2016</td>
+  </tr>
 </table>
