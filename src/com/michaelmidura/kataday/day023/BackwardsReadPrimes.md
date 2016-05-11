@@ -4,7 +4,7 @@
 
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [BackWardsPrime.java](BackWardsPrime.java)
-* <b>Test Class:</b> [BackWardsPrimeTests.java](BackWardsPrimeTests.java)
+* <b>Test Class:</b> [BackWardsPrimeTest.java](BackWardsPrimeTest.java)
 * <b>Solved:</b> Tuesday, May 10<sup>th</sup>, 2016
 
 <b>Description:</b>
