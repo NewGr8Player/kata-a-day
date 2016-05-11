@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Wednesday, May 11<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Thursday, May 12<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -151,5 +151,11 @@
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day023/BackwardsReadPrimes.md">Backwards Read Primes</a></td>
     <td>Tuesday, May 10<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day024/ValidPhoneNumber.md">Valid Phone Number</a></td>
+    <td>Wednesday, May 11<sup>th</sup>, 2016</td>
   </tr>
 </table>
