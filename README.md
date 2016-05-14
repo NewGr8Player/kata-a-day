@@ -170,4 +170,10 @@
     <td><a href="src/com/michaelmidura/kataday/day026/HighestAndLowest.md">Highest and Lowest</a></td>
     <td>Friday, May 13<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>27</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day027/FindDivisorsNumber.md">Find divisors number</a></td>
+    <td>Saturday, May 14<sup>th</sup>, 2016</td>
+  </tr>
 </table>
