@@ -158,4 +158,16 @@
     <td><a href="src/com/michaelmidura/kataday/day024/ValidPhoneNumber.md">Valid Phone Number</a></td>
     <td>Wednesday, May 11<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>25</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day024/RotateArray.md">Rotate Array</a></td>
+    <td>Friday, May 13<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day026/HighestAndLowest.md">Highest and Lowest</a></td>
+    <td>Friday, May 13<sup>th</sup>, 2016</td>
+  </tr>
 </table>
