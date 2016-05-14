@@ -25,6 +25,9 @@ For example:
 <b>Examples:</b>
 
 <code>validBraces( "(){}[]" )</code> => returns true
+
 <code>validBraces( "(}" )</code> => returns false
+
 <code>validBraces( "[(])" )</code> => returns false
+
 <code>validBraces( "([{}])" )</code> => returns true
