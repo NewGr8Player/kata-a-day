@@ -161,7 +161,7 @@
   <tr>
     <td>25</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day024/RotateArray.md">Rotate Array</a></td>
+    <td><a href="src/com/michaelmidura/kataday/day025/RotateArray.md">Rotate Array</a></td>
     <td>Friday, May 13<sup>th</sup>, 2016</td>
   </tr>
   <tr>
