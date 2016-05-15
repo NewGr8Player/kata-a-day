@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Sunday, May 15<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Monday, May 16<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -175,5 +175,11 @@
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day027/FindDivisorsNumber.md">Find divisors number</a></td>
     <td>Saturday, May 14<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day028/IsThisATriangle.md">Is this a triangle?</a></td>
+    <td>Sunday, May 15<sup>th</sup>, 2016</td>
   </tr>
 </table>
