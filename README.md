@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Monday, May 16<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Tuesday, May 17<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -181,5 +181,11 @@
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day028/IsThisATriangle.md">Is this a triangle?</a></td>
     <td>Sunday, May 15<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day029/WhatsAPerfectPowerAnyways.md">What's a Perfect Power anyways?</a></td>
+    <td>Monday, May 16<sup>th</sup>, 2016</td>
   </tr>
 </table>
