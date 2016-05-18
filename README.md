@@ -194,4 +194,10 @@
     <td><a href="src/com/michaelmidura/kataday/day030/TriangleTreasure.md">Triangular Treasure</a></td>
     <td>Tuesday, May 17<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>31</td>
+    <td><img src="http://i.imgur.com/uu3Afqa.png" alt="3 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day031/TheMillionthFibonacciKata.md">The Millionth Fibonacci Kata</a></td>
+    <td>Wednesday, May 17<sup>th</sup>, 2016</td>
+  </tr>
 </table>
