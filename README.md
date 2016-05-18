@@ -188,4 +188,10 @@
     <td><a href="src/com/michaelmidura/kataday/day029/WhatsAPerfectPowerAnyways.md">What's a Perfect Power anyways?</a></td>
     <td>Monday, May 16<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>30</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day030/TriangleTreasure.md">Triangular Treasure</a></td>
+    <td>Tuesday, May 17<sup>th</sup>, 2016</td>
+  </tr>
 </table>
