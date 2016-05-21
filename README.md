@@ -204,7 +204,7 @@
     <td>32</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day032/GreatestCommonDivisorBitcount.md">Greatest Common Divisor Bitcount</a></td>
-    <td>Thursday, May 19<sup>th</sup>, 2016</td>
+    <td>Friday, May 20<sup>th</sup>, 2016</td>
   </tr>
   <tr>
     <td>33</td>

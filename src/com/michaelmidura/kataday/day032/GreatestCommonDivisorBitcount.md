@@ -5,7 +5,7 @@
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [BinaryGCD.java](BinaryGCD.java)
 * <b>Test Class:</b> [BinaryGCDtest.java](BinaryGCDtest.java)
-* <b>Solved:</b> Thursday, May 19<sup>th</sup>, 2016
+* <b>Solved:</b> Friday, May 20<sup>th</sup>, 2016
 
 <b>Description:</b>
 
