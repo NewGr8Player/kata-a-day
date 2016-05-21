@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Thursday, May 19<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Sunday, May 22<sup>nd</sup>, 2016</div>
 
 <hr>
 
@@ -211,5 +211,11 @@
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day033/RectangleIntoSquares.md">Rectangle into Squares</a></td>
     <td>Friday, May 20<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day033/SumOfDigits.md">Sum of Digits / Digital Root</a></td>
+    <td>Saturday, May 21<sup>st</sup>, 2016</td>
   </tr>
 </table>
