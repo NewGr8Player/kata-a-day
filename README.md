@@ -198,6 +198,18 @@
     <td>31</td>
     <td><img src="http://i.imgur.com/uu3Afqa.png" alt="3 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day031/TheMillionthFibonacciKata.md">The Millionth Fibonacci Kata</a></td>
-    <td>Wednesday, May 17<sup>th</sup>, 2016</td>
+    <td>Wednesday, May 18<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day032/GreatestCommonDivisorBitcount.md">Greatest Common Divisor Bitcount</a></td>
+    <td>Thursday, May 19<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day033/RectangleIntoSquares.md">Rectangle into Squares</a></td>
+    <td>Friday, May 20<sup>th</sup>, 2016</td>
   </tr>
 </table>
