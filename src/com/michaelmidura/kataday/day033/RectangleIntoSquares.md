@@ -5,7 +5,7 @@
 * <b>Difficulty:</b> 6 kyu
 * <b>Solution Class:</b> [SqInRect.java](SqInRect.java)
 * <b>Test Class:</b> [SqInRectTest.java](SqInRectTest.java)
-* <b>Solved:</b> Wednesday, May 18<sup>th</sup>, 2016
+* <b>Solved:</b> Friday, May 20<sup>th</sup>, 2016
 
 <b>Description:</b>
 

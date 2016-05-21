@@ -1,11 +1,11 @@
 <a href=https://github.com/michaelwm/KataDay><b>Back to README</b><a>
 
-<b>Day #33: Rectangle into Squares</b>
+<b>Day #34: Sum of Digits / Digital Root</b>
 
 * <b>Difficulty:</b> 6 kyu
-* <b>Solution Class:</b> [SqInRect.java](SqInRect.java)
-* <b>Test Class:</b> [SqInRectTest.java](SqInRectTest.java)
-* <b>Solved:</b> Wednesday, May 18<sup>th</sup>, 2016
+* <b>Solution Class:</b> [DRoot.java](DRoot.java)
+* <b>Test Class:</b> [DRootExampleTest.java](DRootExampleTest.java)
+* <b>Solved:</b> Saturday, May 21<sup>st</sup>, 2016
 
 <b>Description:</b>
 
