@@ -5,6 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class BinaryGCDtest {
+
     @Test
     public void doTest() {
         assertEquals(6, BinaryGCD.gcdBinary(666666, 333111));

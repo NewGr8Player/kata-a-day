@@ -1,7 +1,9 @@
 package com.michaelmidura.kataday.day031;
 
 import java.math.BigInteger;
+
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 public class FibonacciTest {
@@ -40,10 +42,9 @@ public class FibonacciTest {
         BigInteger found;
         try {
             found = Fibonacci.fib(BigInteger.valueOf(input));
-        }
-        catch (Throwable e) {
+        } catch (Throwable e) {
             // see https://github.com/Codewars/codewars.com/issues/21
-            throw new AssertionError("exception during test: "+e, e);
+            throw new AssertionError("exception during test: " + e, e);
         }
         assertEquals(BigInteger.valueOf(expected), found);
     }

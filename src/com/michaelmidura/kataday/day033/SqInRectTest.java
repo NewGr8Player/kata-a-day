@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
 import org.junit.Test;
 
 public class SqInRectTest {
@@ -15,6 +16,7 @@ public class SqInRectTest {
         for (int r : res)
             assertEquals(res, SqInRect.sqInRect(5, 3));
     }
+
     @Test
     public void test2() {
         assertEquals(null, SqInRect.sqInRect(5, 5));
