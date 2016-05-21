@@ -215,7 +215,7 @@
   <tr>
     <td>34</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day033/SumOfDigits.md">Sum of Digits / Digital Root</a></td>
+    <td><a href="src/com/michaelmidura/kataday/day034/SumOfDigits.md">Sum of Digits / Digital Root</a></td>
     <td>Saturday, May 21<sup>st</sup>, 2016</td>
   </tr>
 </table>
