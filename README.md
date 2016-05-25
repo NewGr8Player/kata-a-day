@@ -218,4 +218,22 @@
     <td><a href="src/com/michaelmidura/kataday/day034/SumOfDigits.md">Sum of Digits / Digital Root</a></td>
     <td>Saturday, May 21<sup>st</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>35</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day035/MultiplesOf3And5.md">Multiples of 3 and 5</a></td>
+    <td>Sunday, May 22<sup>nd</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day036/DuplicateEncoder.md">Duplicate Encoder</a></td>
+    <td>Monday, May 23<sup>rd</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day037/CreatePhoneNumber.md">Create Phone Number</a></td>
+    <td>Tuesday, May 24<sup>th</sup>, 2016</td>
+  </tr>
 </table>
