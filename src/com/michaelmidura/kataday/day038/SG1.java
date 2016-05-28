@@ -1,11 +1,11 @@
 package com.michaelmidura.kataday.day038;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
 
 public class SG1 {
+    
+    private static Node[][] nodes;
 
     public static String wireDHD(String existingWires) {
 
@@ -15,58 +15,103 @@ public class SG1 {
         Node start = null, goal = null;
 
         for (int x = 0; x < splitWiring.length; x++)
-            for (int y = 0; y < splitWiring.length; y++)
-                if (splitWiring[x].split("")[y].equals("S")) {
-                    start = new Node(x, y, false);
-                    nodes[x][y] = start;
-                } else if (splitWiring[x].split("")[y].equals("E")) {
-                    goal = new Node(x, y, false);
-                    nodes[x][y] = goal;
-                } else
-                    nodes[x][y] = new Node(x, y, splitWiring[x].split("")[y].equals("X"));
+            for (int y = 0; y < splitWiring.length; y++) {
+                nodes[x][y] = new Node(x, y, splitWiring[x].split("")[y].equals("X"));
+                if (splitWiring[x].split("")[y].equals("S"))
+                    start = nodes[x][y];
+                else if (splitWiring[x].split("")[y].equals("E"))
+                    goal = nodes[x][y];
+            }
+
+        for (int x = 0; x < nodes.length; x++) {
+            for (int y = 0; y < nodes.length; y++)
+                System.out.print((nodes[x][y].blocked ? "X" : ".") + " ");
+            System.out.println();
+        }
 
         ArrayList<Node> open = new ArrayList<>();
         ArrayList<Node> closed = new ArrayList<>();
+
         open.add(start);
+        start.g = 0;
+        start.h = heuristic(start, goal);
+        start.f = start.g + start.h;
+        System.out.println(start.f);
 
         while (!open.isEmpty()) {
-            Node current = getSmallestF(open);
-            open.remove(current);
 
-            ArrayList<Node> successors = new ArrayList<>();
-            for (int x = current.x - 1; x <= current.x + 1; x++)
-                for (int y = current.y - 1; y <= current.y + 1; y++)
-                    if (!(x == current.x && y == current.y) && x >= 0 && y >= 0 && x < nodes.length && y < nodes.length && !nodes[x][y].blocked)
-                        successors.add(nodes[x][y]);
+            Node current = open.stream().min(Comparator.comparingDouble(Node::getF)).get();
+
+            if (current.x == goal.x && current.y == goal.y)
+                return "Found goal!";
+
+            open.remove(current);
+            closed.add(current);
+
+            ArrayList<Node> successors = successors(current);
 
             for (Node successor : successors) {
-                if (successor.x == goal.x && successor.y == goal.y)
-                    return "Found goal!";
 
-                successor.g = current.g + distance(successor, current);
-                successor.h = distance(successor, goal);
+                if (!contains(closed, successor)) {
+
+                }
+
+                successor.g = current.g + heuristic(successor, current);
+                successor.h = heuristic(successor, goal);
                 successor.f = successor.g + successor.h;
 
-                Node smallestOpen = getSmallestF(open);
-                Node smallestClosed = getSmallestF(closed);
-                if (smallestOpen != null && smallestOpen.x == successor.x && smallestOpen.y == successor.y)
-                    System.out.println("lol");
-                else if (smallestClosed != null && smallestClosed.x == successor.x && smallestClosed.y == successor.y)
-                    System.out.println("lol");
-                else
-                    open.add(successor);
-            }
+                if (containsLower(open, successor)) {
+                    System.out.println("open");
+                    continue;
+                }
+                if (containsLower(closed, successor)) {
+                    System.out.println("closed");
+                    continue;
+                }
 
-            closed.add(current);
+                System.out.println(open.size());
+                open.add(successor);
+            }
         }
 
         return "Oh for crying out loud...";
     }
+    
+    private static ArrayList<Node> successors(Node node) {
+        ArrayList<Node> successors = new ArrayList<>();
+        for (int x = node.x - 1; x <= node.x + 1; x++)
+            for (int y = node.y - 1; y <= node.y + 1; y++)
+                if (!(x == node.x && y == node.y) && x >= 0 && y >= 0 && x < nodes.length && y < nodes.length && !nodes[x][y].blocked)
+                    successors.add(nodes[x][y]);
+        for (Node successor : successors) {
+            if (successor.x != node.x && successor.y != node.y)
+                successor.g = node.g + 1.414;
+            else
+                successor.g = node.g + 1;
+            successor.parent = node;
+        }
+        return successors;
+    }
+
+    private static double heuristic(Node node1, Node node2) {
+        double maxD = Math.max(Math.abs(node1.x - node2.x), Math.abs(node1.y - node2.y));
+        double minD = Math.min(Math.abs(node1.x - node2.x), Math.abs(node1.y - node2.y));
+        return (1.414 * minD) + (maxD - minD);
+    }
+
+    public static boolean contains(ArrayList<Node> nodes, Node node) {
+        for (Node n : nodes)
+            if (n.x == node.x && n.y == node.y)
+                return true;
+        return false;
+    }
 
     public static class Node {
+
+        public Node parent;
         public boolean blocked;
         public int x, y;
-        public float f, g, h;
+        public double f, g, h;
 
         public Node(int x, int y, boolean blocked) {
             this.x = x;
@@ -76,22 +121,9 @@ public class SG1 {
             g = 0;
             h = 0;
         }
-    }
 
-    public static float distance(Node node1, Node node2) {
-        float dx = Math.abs(node1.x - node2.x);
-        float dy = Math.abs(node1.y - node2.y);
-        return (float) Math.sqrt((dx * dx) * (dy * dy));
-    }
-
-    public static Node getSmallestF(ArrayList<Node> nodes) {
-        Node smallestF = null;
-        if (!nodes.isEmpty()) {
-            smallestF = nodes.get(0);
-            for (Node node : nodes)
-                if (node.f < smallestF.f)
-                    smallestF = node;
+        public double getF() {
+            return f;
         }
-        return smallestF;
     }
 }
