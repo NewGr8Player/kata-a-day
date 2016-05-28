@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Wednesday, May 25<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Wednesday, May 26<sup>th</sup>, 2016</div>
 
 <hr>
 
