@@ -60,15 +60,6 @@ public class SG1 {
                 successor.h = heuristic(successor, goal);
                 successor.f = successor.g + successor.h;
 
-                if (containsLower(open, successor)) {
-                    System.out.println("open");
-                    continue;
-                }
-                if (containsLower(closed, successor)) {
-                    System.out.println("closed");
-                    continue;
-                }
-
                 System.out.println(open.size());
                 open.add(successor);
             }
