@@ -27,5 +27,5 @@ variance("London", data), 57.42(833333333374)</code></pre>
 
 <pre><code>- if functions `mean`or `variance` have as parameter `town` a city which has no records return `-1`
 - Don't truncate or round: the tests will pass if `abs(your_result - test_result) <= 1e-2`.
-- <http://www.mathsisfun.com/data/standard-deviation.html>
-- `data` and `data1` are adapted from <http://www.worldclimate.com></code></pre>
+- http://www.mathsisfun.com/data/standard-deviation.html
+- `data` and `data1` are adapted from http://www.worldclimate.com</code></pre>
