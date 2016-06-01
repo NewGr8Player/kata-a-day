@@ -16,12 +16,12 @@
 <b>Task:</b>
 
 <pre><code>- function: mean(town, strng) should return the average of rainfall for the city `town` and the `strng` `data` or `data1`.
-- function: variance(town, strng) should return the variance of rainfall for the city `town` and the `strng` `data` or `data1`.<code></pre>
+- function: variance(town, strng) should return the variance of rainfall for the city `town` and the `strng` `data` or `data1`.</code></pre>
 
 <b>Examples:</b>
 
 <pre><code>mean("London", data), 51.19(9999999999996)
-variance("London", data), 57.42(833333333374)<code></pre>
+variance("London", data), 57.42(833333333374)</code></pre>
 
 <b>Notes:</b>
 
