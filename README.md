@@ -236,4 +236,70 @@
     <td><a href="src/com/michaelmidura/kataday/day037/CreatePhoneNumber.md">Create Phone Number</a></td>
     <td>Tuesday, May 24<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>38</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="Beta"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day038/SG1.md">Stargate SG-1: Cute and Fuzzy</a></td>
+    <td>Unsolved</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day039/PizzaPieces.md">Pizza pieces</a></td>
+    <td>Sunday, May 29<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day040/BuildAPileOfCubes.md">Build a pile of Cubes</a></td>
+    <td>Sunday, May 29<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day041/SequencesAndSeries.md">Sequences and Series</a></td>
+    <td>Sunday, May 29<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day042/MultiTapKeypad.md">Multi-tap Keypad Text Entry on an Old Mobile Phone</a></td>
+    <td>Sunday, May 29<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day043/QuickNChooseKCalculator.md">Quick (n choose k) Calculator</a></td>
+    <td>Sunday, May 29<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day044/BingoCard.md">Bingo Card</a></td>
+    <td>Monday, May 30<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day045/Rainfall.md">Rainfall</a></td>
+    <td>Tuesday, May 31<sup>st</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day046/WhichAreIn.md">Which are in?</a></td>
+    <td>Wednesday, June 1<sup>st</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day047/TwoCubeSums.md">Two cube sums</a></td>
+    <td>Wednesday, June 1<sup>st</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day048/WeightForWeight.md">Weight for weight</a></td>
+    <td>Wednesday, June 1<sup>st</sup>, 2016</td>
+  </tr>
 </table>
