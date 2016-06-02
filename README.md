@@ -238,8 +238,8 @@
   </tr>
   <tr>
     <td>38</td>
-    <td><img src="http://i.imgur.com/ZccZynH.png" alt="Beta"/></td>
-    <td><a href="src/com/michaelmidura/kataday/day038/SG1.md">Stargate SG-1: Cute and Fuzzy</a></td>
+    <td><img src="http://i.imgur.com/hn5UIKC.png" alt="beta"/></td>
+    <td><b><a href="src/com/michaelmidura/kataday/day038/SG1.md">Stargate SG-1: Cute and Fuzzy</a></b></td>
     <td>Unsolved</td>
   </tr>
   <tr>
