@@ -8,17 +8,17 @@ public class SG1Test {
 
     @Test
     public void test5x5() {
-        String existingWires =  ".E...\n" +
-                                ".XXX.\n" +
-                                ".XX..\n" +
-                                "..X..\n" +
-                                "..S..";
+        String existingWires =  "GXXXX\n" +
+                                "....X\n" +
+                                "XXX.X\n" +
+                                "....X\n" +
+                                "SXXXX";
 
-        String solution =       ".E...\n" +
-                                "PXXX.\n" +
-                                "PXX..\n" +
-                                ".PX..\n" +
-                                "..S..";
+        String solution =       "GXXXX\n" +
+                                "....X\n" +
+                                "XXX.X\n" +
+                                "....X\n" +
+                                "SXXXX";
 
         assertEquals(solution, SG1.wireDHD(existingWires));
     }
