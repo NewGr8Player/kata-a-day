@@ -6,15 +6,19 @@ import java.util.Comparator;
 public class SG1 {
 
     private static Node[][] nodes;
-    private static ArrayList<Node> open = new ArrayList<>();
-    private static ArrayList<Node> closed = new ArrayList<>();
-    private static Node start = null, goal = null;
+    private static ArrayList<Node> open;
+    private static ArrayList<Node> closed;
+    private static Node start, goal;
 
     public static String wireDHD(String existingWires) {
 
         String[] splitWiring = existingWires.split("\n");
 
         nodes = new Node[splitWiring.length][splitWiring.length];
+        open = new ArrayList<>();
+        closed = new ArrayList<>();
+        start = null;
+        goal = null;
 
         for (int x = 0; x < splitWiring.length; x++)
             for (int y = 0; y < splitWiring.length; y++) {
@@ -24,12 +28,6 @@ public class SG1 {
                 else if (splitWiring[x].split("")[y].equals("G"))
                     goal = new Node(nodes[x][y]);
             }
-
-        for (int x = 0; x < nodes.length; x++) {
-            for (int y = 0; y < nodes.length; y++)
-                System.out.print((nodes[x][y].blocked ? "X" : (x == start.x && y == start.y) ? "S" : (x == goal.x && y == goal.y) ? "G" : ".") + " ");
-            System.out.println();
-        }
 
         start.g = 0;
         start.f = start.g + heuristic(start, goal);
