@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Saturday, June 4<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Wednesday, June 8<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -240,7 +240,7 @@
     <td>38</td>
     <td><img src="http://i.imgur.com/hn5UIKC.png" alt="beta"/></td>
     <td><b><a href="src/com/michaelmidura/kataday/day038/SG1.md">Stargate SG-1: Cute and Fuzzy</a></b></td>
-    <td>Unsolved</td>
+    <td>Sunday, June 5<sup>th</sup>, 2016</td>
   </tr>
   <tr>
     <td>39</td>
@@ -301,5 +301,23 @@
     <td><img src="http://i.imgur.com/wGVxr9j.png" alt="5 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day048/WeightForWeight.md">Weight for weight</a></td>
     <td>Wednesday, June 1<sup>st</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day049/WhoWonTheElection.md">Who won the election?</a></td>
+    <td>Sunday, June 5<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day050/YourOrderPlease.md">Your order, please</a></td>
+    <td>Sunday, June 5<sup>th</sup>, 2016</td>
+  </tr>
+  <tr>
+    <td>51</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day050/RecreationTwo.md">Integers: Recreation Two</a></td>
+    <td>Wednesday, June 15<sup>th</sup>, 2016</td>
   </tr>
 </table>
