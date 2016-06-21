@@ -320,4 +320,10 @@
     <td><a href="src/com/michaelmidura/kataday/day050/RecreationTwo.md">Integers: Recreation Two</a></td>
     <td>Wednesday, June 15<sup>th</sup>, 2016</td>
   </tr>
+  <tr>
+    <td>52</td>
+    <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
+    <td><a href="src/com/michaelmidura/kataday/day050/RecreationTwo.md">Give me Diamond</a></td>
+    <td>Wednesday, June 15<sup>th</sup>, 2016</td>
+  </tr>
 </table>
