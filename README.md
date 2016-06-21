@@ -3,7 +3,7 @@
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
 </br>
-<b>Next Solution:</b> Wednesday, June 8<sup>th</sup>, 2016</div>
+<b>Next Solution:</b> Thursday, June 9<sup>th</sup>, 2016</div>
 
 <hr>
 
@@ -324,6 +324,6 @@
     <td>52</td>
     <td><img src="http://i.imgur.com/ZccZynH.png" alt="6 kyu"/></td>
     <td><a href="src/com/michaelmidura/kataday/day050/RecreationTwo.md">Give me Diamond</a></td>
-    <td>Wednesday, June 15<sup>th</sup>, 2016</td>
+    <td>Monday, June 20<sup>th</sup>, 2016</td>
   </tr>
 </table>
