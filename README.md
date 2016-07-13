@@ -13,6 +13,7 @@
     <th>Difficulty</th>
     <th>Kata</th>
     <th>Solved</th>
+    <th>Language</th>
   </tr>
   <tr>
     <td>1</td>
