@@ -80,7 +80,7 @@ public class SG1Test {
 
     @Test
     public void randomTests() {
-        for (int i = 3; i < 101; i++) {
+        for (int i = 3; i < 51; i++) {
             String existingWires = "";
             for (int x = 0; x < i; x++) {
                 for (int y = 0; y < i; y++)
