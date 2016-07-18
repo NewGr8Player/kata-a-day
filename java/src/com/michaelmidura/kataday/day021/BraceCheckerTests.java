@@ -6,15 +6,15 @@ import org.junit.Test;
 
 public class BraceCheckerTests {
 
-    private BraceChecker checker = new BraceChecker();
+	private BraceChecker checker = new BraceChecker();
 
-    @Test
-    public void testValid() {
-        assertEquals(true, checker.isValid("()"));
-    }
+	@Test
+	public void testValid() {
+		assertEquals(true, checker.isValid("()"));
+	}
 
-    @Test
-    public void testInvalid() {
-        assertEquals(false, checker.isValid("[(])"));
-    }
+	@Test
+	public void testInvalid() {
+		assertEquals(false, checker.isValid("[(])"));
+	}
 }

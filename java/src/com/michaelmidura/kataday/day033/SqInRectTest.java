@@ -10,15 +10,15 @@ import org.junit.Test;
 
 public class SqInRectTest {
 
-    @Test
-    public void test1() {
-        List<Integer> res = new ArrayList<>(Arrays.asList(3, 2, 1, 1));
-        for (int r : res)
-            assertEquals(res, SqInRect.sqInRect(5, 3));
-    }
+	@Test
+	public void test1() {
+		List<Integer> res = new ArrayList<>(Arrays.asList(3, 2, 1, 1));
+		for (int r : res)
+			assertEquals(res, SqInRect.sqInRect(5, 3));
+	}
 
-    @Test
-    public void test2() {
-        assertEquals(null, SqInRect.sqInRect(5, 5));
-    }
+	@Test
+	public void test2() {
+		assertEquals(null, SqInRect.sqInRect(5, 5));
+	}
 }
