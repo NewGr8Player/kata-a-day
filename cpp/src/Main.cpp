@@ -3,5 +3,5 @@
 using namespace igloo;
 
 int main(int arg) {
-    return TestRunner::RunAllTests(arg);
+	return TestRunner::RunAllTests(arg);
 }
