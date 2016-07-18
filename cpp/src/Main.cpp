@@ -1,4 +1,7 @@
-//
-// Created by michaelwm on 7/17/2016.
-//
+#include <igloo/igloo_alt.h>
 
+using namespace igloo;
+
+int main(int arg) {
+    return TestRunner::RunAllTests(arg);
+}

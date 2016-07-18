@@ -1,3 +1,6 @@
-.idea
-lib
-out
+java/.idea
+java/lib
+java/out
+cpp/.idea
+cpp/include
+*CMakeLists.txt*
