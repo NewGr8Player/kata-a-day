@@ -383,14 +383,28 @@
     <td>53</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="cpp/src/day053/EvenOrOdd.md">Even or Odd</a></td>
-    <td>Monday, July 17<sup>th</sup>, 2016</td>
+    <td>Sunday, July 17<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
   </tr>
   <tr>
     <td>54</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="cpp/src/day054/AFunctionWithinAFunction.md">A function within a function</a></td>
-    <td>Monday, July 17<sup>th</sup>, 2016</td>
+    <td>Sunday, July 17<sup>th</sup>, 2016</td>
+	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
+  </tr>
+  <tr>
+    <td>55</td>
+    <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+    <td><a href="cpp/src/day054/SubtractTheSum.md">subtract the sum</a></td>
+    <td>Wednesday, July 20<sup>th</sup>, 2016</td>
+	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
+  </tr>
+  <tr>
+    <td>56</td>
+    <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
+    <td><a href="cpp/src/day054/GoingToTheCinema.md">Going to the cinema</a></td>
+    <td>Wednesday, July 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
   </tr>
 </table>
