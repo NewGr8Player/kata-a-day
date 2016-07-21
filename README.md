@@ -396,15 +396,30 @@
   <tr>
     <td>55</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
-    <td><a href="cpp/src/day054/SubtractTheSum.md">subtract the sum</a></td>
+    <td><a href="cpp/src/day055/SubtractTheSum.md">subtract the sum</a></td>
     <td>Wednesday, July 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
   </tr>
   <tr>
     <td>56</td>
     <td><img src="http://i.imgur.com/INcuEgb.png" alt="7 kyu"/></td>
-    <td><a href="cpp/src/day054/GoingToTheCinema.md">Going to the cinema</a></td>
+    <td><a href="cpp/src/day056/GoingToTheCinema.md">Going to the cinema</a></td>
     <td>Wednesday, July 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
+  </tr>
+  <tr>
+    <td>57</td>
+    <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+    <td><a href="cpp/src/day057/ReturnNegative.md">Return Negative</a></td>
+    <td>Wednesday, July 20<sup>th</sup>, 2016</td>
+	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
+  </tr>
+  
+  <tr>
+    <td>58</td>
+    <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+    <td><a href="java/src/com/michaelmidura/kataday/day058/ReturnNegative.md">Return Negative</a></td>
+    <td>Wednesday, July 20<sup>th</sup>, 2016</td>
+	<td><img src="http://i.imgur.com/7uvWb36.png" alt="java"/></td>
   </tr>
 </table>
