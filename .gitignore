@@ -1,6 +1,13 @@
-java/.idea
-java/lib
-java/out
 cpp/.idea
 cpp/include
 *CMakeLists.txt*
+cs/.idea.src
+cs/packages
+cs/src.sln
+cs/src/bin
+cs/src/obj
+cs/src/packages.config
+cs/src/src.csproj
+java/.idea
+java/lib
+java/out

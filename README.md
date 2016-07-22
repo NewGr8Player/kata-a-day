@@ -414,12 +414,18 @@
     <td>Wednesday, July 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/LCqZUL0.png" alt="cpp"/></td>
   </tr>
-  
   <tr>
     <td>58</td>
     <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
     <td><a href="java/src/com/michaelmidura/kataday/day058/ReturnNegative.md">Return Negative</a></td>
     <td>Wednesday, July 20<sup>th</sup>, 2016</td>
 	<td><img src="http://i.imgur.com/7uvWb36.png" alt="java"/></td>
+  </tr>
+  <tr>
+    <td>59</td>
+    <td><img src="http://i.imgur.com/8S5Xl1A.png" alt="8 kyu"/></td>
+    <td><a href="cs/src/day059/DoubleChar.md">Double Char</a></td>
+    <td>Thursday, July 21<sup>st</sup>, 2016</td>
+	<td><img src="http://i.imgur.com/QG0F4VJ.png" alt="cs"/></td>
   </tr>
 </table>
