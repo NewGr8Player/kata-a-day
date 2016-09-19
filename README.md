@@ -1,4 +1,4 @@
-<div align="center"><img src="http://i.imgur.com/MKY21oI.png"/></div>
+<div align="center"><img src="http://i.imgur.com/mp1xmLa.png"/></div>
 <hr>
 
 <div align="center">Solving a Kata (programming problems hosted on http://codewars.com) everyday!
